@@ -1,0 +1,26 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --bfile HS_cases_control_vcf2tped_all
+  --extract updatedSNP.txt
+  --make-bed
+  --out newset
+
+Hostname: LAPTOP-SP29OJNK
+Working directory: C:\Users\13915\OneDrive\Desktop\University of Chicago\plink_win64_20210606
+Start time: Mon Dec 13 10:53:49 2021
+
+Random number seed: 1639414429
+8099 MB RAM detected; reserving 4049 MB for main workspace.
+259140 variants loaded from .bim file.
+117 people (42 males, 75 females) loaded from .fam.
+117 phenotype values loaded from .fam.
+--extract: 2666 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 114 founders and 3 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.973615.
+2666 variants and 117 people pass filters and QC.
+Among remaining phenotypes, 66 are cases and 51 are controls.
+--make-bed to newset.bed + newset.bim + newset.fam ... done.
+
+End time: Mon Dec 13 10:53:49 2021

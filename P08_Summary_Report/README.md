@@ -1,6 +1,4 @@
-# README
+## Summary
 
-Please use this folder to upload a breif report for what you do for this project in a markdown file, including figures, tables, and plots. 
 
-No rush, no deadline, please feel free to upload the report once you finish it.
-
+My project is about studying how genetic variations in people’s DNA influence their risks of diseases. Any individual can carry millions of DNA variants, known as Single Nucleotide Polymorphism (SNPs). For instance, some people may have A nucleotides in one SNP, while others have T nucleotides. These different versions of SNPs can influence one’s risk of diseases, but out of the millions of SNPs, which ones are actually disease-causing are usually unknown. To identify those, researchers use Genome-wide association studies (GWAS), where the disease status of samples (response variable) are correlated with their SNPs (explanatory variables). While this is conceptually simple as regression analysis, there are a number of problems in practice, for instance, the quality of input data may be questionable, the results can be difficult to interpret, and so on. In my project, I performed a number of analyses in the GWAS of Hidradenitis suppurativa, a skin disease. I conducted extensive quality control of data to remove variants with low quality, performed statistical association analysis using the software PLINK, created plots to summarize the resulting associations of millions of SNPs, and used additional bioinformatics tools to understand the biological meaning of the significant SNPs. This project has sharpened my statistical and computational skills, especially the use of R programming language, and gave me a good sense of how statistics and data analysis can be used to solve important scientific problems.  
